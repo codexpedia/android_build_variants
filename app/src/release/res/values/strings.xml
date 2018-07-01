@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Build Variants</string>
+    <string name="build_type">Release</string>
+    <string name="api_domain">https://www.example.com</string>
+</resources>

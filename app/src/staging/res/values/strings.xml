@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Build Variants</string>
+    <string name="build_type">Staging</string>
+    <string name="api_domain">https://staging.example.com</string>
+</resources>

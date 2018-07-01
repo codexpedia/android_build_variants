@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Build Variants</string>
+    <string name="build_type_label">Build Type</string>
+</resources>
